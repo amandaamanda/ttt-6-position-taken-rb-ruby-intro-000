@@ -1,5 +1,5 @@
 def position_taken?(board, index)
-if " " || "" || nil !== " " || "" || nil
+if (" " || "" || nil) !== (" " || "" || nil)
     false
 elsif "X" || "O" == "X" || "O"
   true
