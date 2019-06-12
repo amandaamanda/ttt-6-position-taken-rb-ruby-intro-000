@@ -4,3 +4,4 @@ if board[index] == " " || "" || nil
 elsif board[index] == "X" || "O"
   true
 end
+end
