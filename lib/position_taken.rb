@@ -3,6 +3,5 @@ if board[index] == " " || "" || nil
     false
 elsif board[index] == "X" || "O"
   true
-    end
 end
 end
